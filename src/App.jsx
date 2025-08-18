@@ -7,6 +7,7 @@ const styles = {
     display: 'flex',
     flexDirection: 'column',
     height: '100vh',
+    minWidth: '400px',
     maxWidth: '800px',
     margin: '0 auto',
     backgroundColor: '#f8fafc',
